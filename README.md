@@ -1,5 +1,8 @@
 # Charles-Cantin
-#Charles-Cantin
+
+-adrésse du depot github:
+
+https://github.com/pickypou/charles-cantin
 
  -adrésse du site en production:
 
