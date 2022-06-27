@@ -14,6 +14,6 @@ http://127.0.0.1:5500/index.html#/
 
 -le cms est forestry.io
 -accer au tableau de bord:
-https://app.forestry.io/sites/qyeykn7ra6mzgg/#/
+https://app.forestry.io/sites/vwv8rmj6qfak5a/#/
 
 -Toutes les bibliothèques sont importer en CDN 
